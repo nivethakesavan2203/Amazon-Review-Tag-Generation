@@ -11,7 +11,4 @@ Download all the files in this repository
 
 Run all cells of the Jupyter Notebook.
 
-### TEAM MEMBERS
-- Andrew Charters
-- Nivetha Kesavan
-- Abhas Prasad
+
