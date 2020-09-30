@@ -10,5 +10,3 @@ In this code, Electornics (5 Core) dataset from Files section is used.
 Download all the files in this repository
 
 Run all cells of the Jupyter Notebook.
-
-
